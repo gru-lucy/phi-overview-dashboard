@@ -8,8 +8,3 @@ export async function getPatients(): Promise<Patient[]> {
   const raw = await fs.readFile(DATA_PATH, { encoding: "utf-8" });
   return JSON.parse(raw) as Patient[];
 }
-
-export async function getPatient(id: string): Promise<Patient | undefined> {
-  const all = await getPatients();
-  return all.find((p) => p.id === id);
-}
