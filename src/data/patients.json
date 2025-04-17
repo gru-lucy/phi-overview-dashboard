@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "b4ec1942-a559-4890-b2d5-51d3fa21afbe",
+    "firstName": "Grace",
+    "lastName": "Garcia",
+    "dateOfBirth": "1948-01-31",
+    "gender": "Male",
+    "lastVisit": "2023-04-21",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 63
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 65
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 61
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 64
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 62
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 119,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 118,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 120,
+          "diastolic": 85
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 117,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 121,
+          "diastolic": 84
+        }
+      ]
+    },
+    "note": "Reports mild headaches."
+  },
+  {
+    "id": "5f89417a-ce18-45d0-892f-0978cc6d021a",
+    "firstName": "Henry",
+    "lastName": "Miller",
+    "dateOfBirth": "1982-05-04",
+    "gender": "Male",
+    "lastVisit": "2023-10-22",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 123,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 125,
+          "diastolic": 71
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 124,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 122,
+          "diastolic": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 126,
+          "diastolic": 72
+        }
+      ]
+    },
+    "note": "Reports mild headaches."
+  },
+  {
+    "id": "7148ad70-52a5-4ec2-89a4-263774dd1fd8",
+    "firstName": "Daniel",
+    "lastName": "Perez",
+    "dateOfBirth": "1940-02-25",
+    "gender": "Male",
+    "lastVisit": "2024-07-13",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 74
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 128,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 127,
+          "diastolic": 80
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 130,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 129,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 131,
+          "diastolic": 82
+        }
+      ]
+    },
+    "note": "Lab work pending."
+  },
+  {
+    "id": "0fc24539-950c-49be-9fe7-753ec779c8eb",
+    "firstName": "Henry",
+    "lastName": "Wilson",
+    "dateOfBirth": "1990-09-22",
+    "gender": "Male",
+    "lastVisit": "2025-02-22",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 63
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 65
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 61
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 64
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 62
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 119,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 118,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 120,
+          "diastolic": 85
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 117,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 121,
+          "diastolic": 84
+        }
+      ]
+    },
+    "note": "Diabetic management review."
+  },
+  {
+    "id": "ef31af3c-761a-4142-a417-7bed96b89eeb",
+    "firstName": "Henry",
+    "lastName": "Martinez",
+    "dateOfBirth": "1995-02-07",
+    "gender": "Female",
+    "lastVisit": "2024-12-21",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 123,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 125,
+          "diastolic": 71
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 124,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 122,
+          "diastolic": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 126,
+          "diastolic": 72
+        }
+      ]
+    },
+    "note": "Follow\u2011up on hypertension treatment."
+  },
+  {
+    "id": "878f68d6-9b6f-48bc-b202-cc7b0dfab96e",
+    "firstName": "Charlotte",
+    "lastName": "Williams",
+    "dateOfBirth": "1964-07-07",
+    "gender": "Male",
+    "lastVisit": "2024-10-07",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 74
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 128,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 127,
+          "diastolic": 80
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 130,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 129,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 131,
+          "diastolic": 82
+        }
+      ]
+    },
+    "note": "Routine check\u2011up\u00a0\u2013 no concerns."
+  },
+  {
+    "id": "e2869f63-59ee-40cd-8eb3-ff40a5e11553",
+    "firstName": "Isabella",
+    "lastName": "Miller",
+    "dateOfBirth": "2003-06-25",
+    "gender": "Male",
+    "lastVisit": "2023-04-26",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 63
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 65
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 61
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 64
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 62
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 119,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 118,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 120,
+          "diastolic": 85
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 117,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 121,
+          "diastolic": 84
+        }
+      ]
+    },
+    "note": "Routine check\u2011up\u00a0\u2013 no concerns."
+  },
+  {
+    "id": "879eefea-e69e-484f-916c-4c30606f7914",
+    "firstName": "Emma",
+    "lastName": "Lewis",
+    "dateOfBirth": "1980-11-15",
+    "gender": "Female",
+    "lastVisit": "2023-05-03",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 123,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 125,
+          "diastolic": 71
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 124,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 122,
+          "diastolic": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 126,
+          "diastolic": 72
+        }
+      ]
+    },
+    "note": "Annual physical exam."
+  },
+  {
+    "id": "d368b584-1b89-42bc-b865-036d871ebec5",
+    "firstName": "Sophia",
+    "lastName": "Brown",
+    "dateOfBirth": "1948-09-18",
+    "gender": "Female",
+    "lastVisit": "2024-10-11",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 74
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 128,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 127,
+          "diastolic": 80
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 130,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 129,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 131,
+          "diastolic": 82
+        }
+      ]
+    },
+    "note": "Lab work pending."
+  },
+  {
+    "id": "207603c0-398b-42a0-8b71-84d3344559f1",
+    "firstName": "Noah",
+    "lastName": "Lewis",
+    "dateOfBirth": "1961-03-25",
+    "gender": "Female",
+    "lastVisit": "2023-10-26",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 63
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 65
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 61
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 64
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 62
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 119,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 118,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 120,
+          "diastolic": 85
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 117,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 121,
+          "diastolic": 84
+        }
+      ]
+    },
+    "note": "Reports mild headaches."
+  },
+  {
+    "id": "fd1b0649-5072-4ee5-be17-30d0d994b3e5",
+    "firstName": "Sophia",
+    "lastName": "Lee",
+    "dateOfBirth": "1950-10-30",
+    "gender": "Male",
+    "lastVisit": "2025-04-05",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 74
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 128,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 127,
+          "diastolic": 80
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 130,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 129,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 131,
+          "diastolic": 82
+        }
+      ]
+    },
+    "note": "Diabetic management review."
+  },
+  {
+    "id": "f2129efa-a97f-45c5-b47b-d3810597a9ae",
+    "firstName": "Amelia",
+    "lastName": "White",
+    "dateOfBirth": "2011-02-13",
+    "gender": "Female",
+    "lastVisit": "2024-08-15",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 63
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 65
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 61
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 64
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 62
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 119,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 118,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 120,
+          "diastolic": 85
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 117,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 121,
+          "diastolic": 84
+        }
+      ]
+    },
+    "note": "Follow\u2011up on hypertension treatment."
+  },
+  {
+    "id": "baf10d66-92e6-4a82-97d4-964003758329",
+    "firstName": "Sophia",
+    "lastName": "White",
+    "dateOfBirth": "1957-07-27",
+    "gender": "Female",
+    "lastVisit": "2023-12-18",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 123,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 125,
+          "diastolic": 71
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 124,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 122,
+          "diastolic": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 126,
+          "diastolic": 72
+        }
+      ]
+    },
+    "note": "Diabetic management review."
+  },
+  {
+    "id": "12e36d65-1dfa-4668-86b1-15b1b78f7685",
+    "firstName": "Ava",
+    "lastName": "Ramirez",
+    "dateOfBirth": "1984-04-16",
+    "gender": "Female",
+    "lastVisit": "2023-06-18",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 74
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 128,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 127,
+          "diastolic": 80
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 130,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 129,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 131,
+          "diastolic": 82
+        }
+      ]
+    },
+    "note": "Diabetic management review."
+  },
+  {
+    "id": "5b33f0f2-1473-4010-9368-66d748dadccc",
+    "firstName": "Scarlett",
+    "lastName": "Jones",
+    "dateOfBirth": "1998-01-26",
+    "gender": "Female",
+    "lastVisit": "2024-09-08",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 63
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 65
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 61
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 64
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 62
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 119,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 118,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 120,
+          "diastolic": 85
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 117,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 121,
+          "diastolic": 84
+        }
+      ]
+    },
+    "note": "Reports mild headaches."
+  },
+  {
+    "id": "c3137cb3-8f3c-465e-b93a-2388b34c21f7",
+    "firstName": "Grace",
+    "lastName": "Rodriguez",
+    "dateOfBirth": "1961-01-01",
+    "gender": "Female",
+    "lastVisit": "2023-07-31",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 123,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 125,
+          "diastolic": 71
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 124,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 122,
+          "diastolic": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 126,
+          "diastolic": 72
+        }
+      ]
+    },
+    "note": "Annual physical exam."
+  },
+  {
+    "id": "f8068bd8-2c74-4bc2-9bc9-6e0930d237c2",
+    "firstName": "Grace",
+    "lastName": "Smith",
+    "dateOfBirth": "1947-05-22",
+    "gender": "Female",
+    "lastVisit": "2023-07-18",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 74
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 128,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 127,
+          "diastolic": 80
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 130,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 129,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 131,
+          "diastolic": 82
+        }
+      ]
+    },
+    "note": "Reports mild headaches."
+  },
+  {
+    "id": "eb8d9b9d-3607-4386-b66c-97abdea1aa60",
+    "firstName": "Mateo",
+    "lastName": "Ramirez",
+    "dateOfBirth": "1941-01-13",
+    "gender": "Male",
+    "lastVisit": "2024-11-28",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 63
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 65
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 61
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 64
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 62
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 119,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 118,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 120,
+          "diastolic": 85
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 117,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 121,
+          "diastolic": 84
+        }
+      ]
+    },
+    "note": "Reports mild headaches."
+  },
+  {
+    "id": "8e3f3b6f-46d9-4ba6-bb02-d2441ec42366",
+    "firstName": "Elijah",
+    "lastName": "Lopez",
+    "dateOfBirth": "2015-07-27",
+    "gender": "Male",
+    "lastVisit": "2024-01-19",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 123,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 125,
+          "diastolic": 71
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 124,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 122,
+          "diastolic": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 126,
+          "diastolic": 72
+        }
+      ]
+    },
+    "note": "Follow\u2011up on hypertension treatment."
+  },
+  {
+    "id": "229f4215-b0b7-4c85-8a61-2cadbed4cb37",
+    "firstName": "Mia",
+    "lastName": "Hernandez",
+    "dateOfBirth": "2012-06-08",
+    "gender": "Male",
+    "lastVisit": "2025-01-13",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 74
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 128,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 127,
+          "diastolic": 80
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 130,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 129,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 131,
+          "diastolic": 82
+        }
+      ]
+    },
+    "note": "Diabetic management review."
+  },
+  {
+    "id": "48a54060-19bb-4771-b7c8-184b51d62ae1",
+    "firstName": "James",
+    "lastName": "Martin",
+    "dateOfBirth": "1975-04-15",
+    "gender": "Female",
+    "lastVisit": "2024-10-28",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 63
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 65
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 61
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 64
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 62
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 119,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 118,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 120,
+          "diastolic": 85
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 117,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 121,
+          "diastolic": 84
+        }
+      ]
+    },
+    "note": "Lab work pending."
+  },
+  {
+    "id": "798cdd2d-af36-4731-85a8-49692c891e57",
+    "firstName": "Jack",
+    "lastName": "Johnson",
+    "dateOfBirth": "2014-09-17",
+    "gender": "Female",
+    "lastVisit": "2024-10-19",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 123,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 125,
+          "diastolic": 71
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 124,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 122,
+          "diastolic": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 126,
+          "diastolic": 72
+        }
+      ]
+    },
+    "note": "Lab work pending."
+  },
+  {
+    "id": "70a4635c-fc88-4936-b8a1-9a9de477d1ab",
+    "firstName": "Sophia",
+    "lastName": "Ramirez",
+    "dateOfBirth": "1992-05-09",
+    "gender": "Female",
+    "lastVisit": "2023-10-15",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 74
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 128,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 127,
+          "diastolic": 80
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 130,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 129,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 131,
+          "diastolic": 82
+        }
+      ]
+    },
+    "note": "Routine check\u2011up\u00a0\u2013 no concerns."
+  },
+  {
+    "id": "af00574d-306a-4103-8904-3aa8c54e2bd0",
+    "firstName": "Olivia",
+    "lastName": "Hernandez",
+    "dateOfBirth": "1987-02-13",
+    "gender": "Female",
+    "lastVisit": "2024-04-19",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 63
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 65
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 61
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 64
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 62
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 119,
+          "diastolic": 83
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 118,
+          "diastolic": 82
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 120,
+          "diastolic": 85
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 117,
+          "diastolic": 81
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 121,
+          "diastolic": 84
+        }
+      ]
+    },
+    "note": "Follow\u2011up on hypertension treatment."
+  },
+  {
+    "id": "42d0e6e4-245e-4197-96c8-3cb3806417ae",
+    "firstName": "Isabella",
+    "lastName": "Robinson",
+    "dateOfBirth": "1976-08-19",
+    "gender": "Female",
+    "lastVisit": "2023-06-13",
+    "vitals": {
+      "heartRate": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "value": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "value": 73
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "value": 71
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "value": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "value": 72
+        }
+      ],
+      "bloodPressure": [
+        {
+          "timestamp": "2025-04-17T00:00:00Z",
+          "systolic": 123,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T04:00:00Z",
+          "systolic": 125,
+          "diastolic": 71
+        },
+        {
+          "timestamp": "2025-04-17T08:00:00Z",
+          "systolic": 124,
+          "diastolic": 70
+        },
+        {
+          "timestamp": "2025-04-17T12:00:00Z",
+          "systolic": 122,
+          "diastolic": 69
+        },
+        {
+          "timestamp": "2025-04-17T16:00:00Z",
+          "systolic": 126,
+          "diastolic": 72
+        }
+      ]
+    },
+    "note": "Diabetic management review."
+  }
+]
