@@ -73,7 +73,7 @@ export function DataTable<TData, TValue>({
       <div className="flex flex-wrap items-center gap-4">
         {table.getColumn("firstName") && (
           <Input
-            placeholder="Filter by first name..."
+            placeholder="Filter by..."
             value={globalFilter}
             onChange={(e) => setGlobalFilter(e.target.value)}
             className="max-w-xs"
